@@ -1,0 +1,31 @@
+.small-text {
+    font-size: 11px;
+    color: #562900;
+}
+.right > i {
+margin-left: 5px;
+}
+.bg-brown{
+    background-color: #562900 !important;
+
+}
+.text-brown {
+    color: #562900;
+}
+.btn-small {
+width:  120px;
+}
+.big-text {
+    font-size: 30px;
+
+}
+.dark-bg {
+    background-color: #f8f8f8;
+}
+.content {
+    width:70%;
+    margin:auto;
+}
+.white-text {
+    color: white;
+}
